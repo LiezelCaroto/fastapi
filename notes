@@ -1,0 +1,3 @@
+To start server run below command in terminal:
+$ uvicorn main:app
+
